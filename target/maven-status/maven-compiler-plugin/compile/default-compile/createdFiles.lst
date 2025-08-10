@@ -1,0 +1,9 @@
+com/example/demo/DemoApplication.class
+com/example/demo/interactionservice/model/Interaction.class
+com/example/demo/postservice/controller/PostController.class
+com/example/demo/interactionservice/service/InteractionService.class
+com/example/demo/postservice/service/PostService.class
+com/example/demo/postservice/repository/PostRepository.class
+com/example/demo/interactionservice/repository/InteractionRepository.class
+com/example/demo/postservice/model/Post.class
+com/example/demo/interactionservice/controller/InteractionController.class

@@ -1,0 +1,9 @@
+/workspaces/javamicrospring/src/main/java/com/example/demo/post-service/controller/PostController.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/interaction-service/repository/InteractionRepository.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/post-service/repository/PostRepository.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/post-service/service/PostService.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/post-service/model/Post.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/interaction-service/controller/InteractionController.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/interaction-service/service/InteractionService.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/interaction-service/model/Interaction.java
+/workspaces/javamicrospring/src/main/java/com/example/demo/DemoApplication.java
